@@ -1,0 +1,54 @@
+1. Price: $24.99, Item Name: Short Dress 
+2. Price: $29.99, Item Name: Patterned Slacks 
+3. Price: $49.99, Item Name: Short Chiffon Dress 
+4. Price: $59.99, Item Name: Off-the-shoulder Dress 
+5. Price: $24.99, Item Name: V-neck Top 
+6. Price: $49.99, Item Name: Short Chiffon Dress 
+7. Price: $24.99, Item Name: V-neck Top 
+8. Price: $24.99, Item Name: V-neck Top 
+9. Price: $59.99, Item Name: Short Lace Dress 
+10. Price: $24.99, Item Name: Short Dress 
+11. Price: $29.99, Item Name: Patterned Slacks 
+12. Price: $49.99, Item Name: Short Chiffon Dress 
+13. Price: $59.99, Item Name: Off-the-shoulder Dress 
+14. Price: $24.99, Item Name: V-neck Top 
+15. Price: $49.99, Item Name: Short Chiffon Dress 
+16. Price: $24.99, Item Name: V-neck Top 
+17. Price: $24.99, Item Name: V-neck Top 
+18. Price: $59.99, Item Name: Short Lace Dress 
+19. Price: $24.99, Item Name: Short Dress 
+20. Price: $29.99, Item Name: Patterned Slacks 
+21. Price: $49.99, Item Name: Short Chiffon Dress 
+22. Price: $59.99, Item Name: Off-the-shoulder Dress 
+23. Price: $24.99, Item Name: V-neck Top 
+24. Price: $49.99, Item Name: Short Chiffon Dress 
+25. Price: $24.99, Item Name: V-neck Top 
+26. Price: $24.99, Item Name: V-neck Top 
+27. Price: $59.99, Item Name: Short Lace Dress 
+28. Price: $24.99, Item Name: Short Dress 
+29. Price: $29.99, Item Name: Patterned Slacks 
+30. Price: $49.99, Item Name: Short Chiffon Dress 
+31. Price: $59.99, Item Name: Off-the-shoulder Dress 
+32. Price: $24.99, Item Name: V-neck Top 
+33. Price: $49.99, Item Name: Short Chiffon Dress 
+34. Price: $24.99, Item Name: V-neck Top 
+35. Price: $24.99, Item Name: V-neck Top 
+36. Price: $59.99, Item Name: Short Lace Dress 
+37. Price: $24.99, Item Name: Short Dress 
+38. Price: $29.99, Item Name: Patterned Slacks 
+39. Price: $49.99, Item Name: Short Chiffon Dress 
+40. Price: $59.99, Item Name: Off-the-shoulder Dress 
+41. Price: $24.99, Item Name: V-neck Top 
+42. Price: $49.99, Item Name: Short Chiffon Dress 
+43. Price: $24.99, Item Name: V-neck Top 
+44. Price: $24.99, Item Name: V-neck Top 
+45. Price: $59.99, Item Name: Short Lace Dress 
+46. Price: $24.99, Item Name: Short Dress 
+47. Price: $29.99, Item Name: Patterned Slacks 
+48. Price: $49.99, Item Name: Short Chiffon Dress 
+49. Price: $59.99, Item Name: Off-the-shoulder Dress 
+50. Price: $24.99, Item Name: V-neck Top 
+51. Price: $49.99, Item Name: Short Chiffon Dress 
+52. Price: $24.99, Item Name: V-neck Top 
+53. Price: $24.99, Item Name: V-neck Top 
+54. Price: $59.99, Item Name: Short Lace Dress 
